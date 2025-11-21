@@ -1,0 +1,38 @@
+# Writing Simple Key-Value YAML
+
+name: Arvind
+role: DevOps Engineer
+location: Toronto
+learning: Azure and DevOps
+
+# Adding Nested (Indented) YAML
+
+server:
+  ip: 10.0.0.5
+  os: Ubuntu
+  region: canadacentral
+  owner: Arvind
+
+# Adding YAML List
+
+languages:
+  - Python
+  - Bash
+  - YAML
+  - PowerShell
+
+# Adding a List of Dictionaries - Critical for DevOps Pipelines
+
+employees:
+  - name: Arvind
+    role: DevOps Engineer
+    experience: 2 years
+  - name: John
+    role: Developer
+    experience: 3 years
+  - name: Emily
+    role: Cloud Engineer
+    experience: 1 years
+
+
+

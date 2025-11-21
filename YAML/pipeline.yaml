@@ -1,0 +1,15 @@
+trigger:
+  - main
+
+pool:
+  vmImage: ubuntu-latest
+
+steps:
+  - script: echo "Hello Arvind, this is your first Azure DevOps YAML pipeline!"
+    displayName: "Run hello script"
+
+  - script:  |
+     echo "This is a multi-line script example"
+     echo "YAML keeps DevOps pipelines simple"
+    displayName: "Run multi-line script"
+
