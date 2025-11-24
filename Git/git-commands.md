@@ -1,7 +1,7 @@
 # Git Commands Cheat Sheet – Arvind
 
 ## Checking Status
-git status
+git status # This command shows the current working directory status
 
 ## Adding Files
 git add <filename>
