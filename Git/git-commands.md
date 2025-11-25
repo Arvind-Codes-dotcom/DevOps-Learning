@@ -1,6 +1,7 @@
 # Git Commands Cheat Sheet – Arvind
 
 ## Checking Status (MAIN VERSION)
+## Checking Status (FEATURE Branch Version)
 git status --verbose # Shows detailed status information
 
 ## Adding Files
