@@ -1,7 +1,7 @@
 # My Portfolio – Arvind N
 
 ## About Me
-Hello! My name is Arvind Narasimha Moorthy.  
+Hello! My name is Arvind N  
 This portfolio documents my Azure & DevOps learning journey.
 
 ## Skills
