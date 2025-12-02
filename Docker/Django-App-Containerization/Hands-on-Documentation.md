@@ -184,7 +184,7 @@ Open: **http://localhost:8000**
 ### 📸 Screenshot (insert your screenshot here)
 
 ```
-![Django Screenshot](./django-output.png)
+![Django Screenshot](django-output.png)
 ```
 *(Replace with your own uploaded file)*
 
