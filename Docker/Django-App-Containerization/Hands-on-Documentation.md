@@ -181,10 +181,10 @@ cc22e7b91db1   django-app   "python manage.py ru…"   Up ...           0.0.0.0:
 ## Step 10 — Open Django in Browser
 Open: **http://localhost:8000**
 
-### 📸 Screenshot (insert your screenshot here)
+### Output should look like this:
 
 ```
-![Django Screenshot](django-output.png)
+![Django Screenshot](https://github.com/Arvind-Codes-dotcom/DevOps-Learning/blob/8ca0ba380b342c656d45fc4c10a659abcacc26be/Docker/Django-App-Containerization/django-output.png)
 ```
 *(Replace with your own uploaded file)*
 
