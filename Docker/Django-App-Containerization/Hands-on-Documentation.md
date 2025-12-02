@@ -184,8 +184,8 @@ Open: **http://localhost:8000**
 ### Output should look like this:
 
 ```
-![Django Screenshot](https://raw.githubusercontent.com/Arvind-Codes-dotcom/DevOps-Learning/a31143c6473487af59bfbc57c299c572d9c13502/Docker/Django-App-Containerization/django-output.png)
-```
+<img src="https://raw.githubusercontent.com/Arvind-Codes-dotcom/DevOps-Learning/c7038603d06df29233883de1c7aaf952cb9cdb04/Docker/Django-App-Containerization/django-output.png" alt="Django Screenshot" style="max-width:100%;height:auto;">
+
 *(Replace with your own uploaded file)*
 
 ---
